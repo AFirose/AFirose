@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Afrin Firose
+**Technical Project Manager | Scrum Master**
 
-<!--
-**AFirose/AFirose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Technical Project Manager** and **Scrum Master** with **11 years of experience** managing small, mid, and large-scale projects.  
 
-Here are some ideas to get you started:
+🔭 I’m currently pursuing my **Master’s in Software Engineering** at **Metropolia University of Applied Sciences, Finland**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 I specialize in coordinating technical teams, agile project management, and delivering high-quality software solutions.  
+
+📫 You can reach me at: [afrin.techpm@gmail.com](mailto:afrin.techpm@gmail.com)
+
+---
+
+### 🛠 Skills & Focus
+- Project Management & Scrum Mastery  
+- Agile & Kanban frameworks  
+- Full-Stack Software Development coordination  
+- Technical leadership and team mentoring  
+
+---
+
+### ⚡ Fun Fact
+I enjoy building structured, scalable projects and learning new technologies along the way!  
